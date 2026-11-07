@@ -20,3 +20,21 @@ I researched what specs and components would be required for playing light games
 Design both the carrier board and the battery management boards in KiCad
 
 Time Spent: 1hr
+
+November 8th:
+
+##What I did
+I installed the library that contained the CM4 into KiCad, then I created the schematic for the main carrier board. Then I opened it on the PCB editor and laid out the components onto the board and I connected all of the components together
+
+##Photos
+<img width="1470" height="842" alt="Screenshot 2026-11-08 at 9 51 24 AM" src="https://github.com/user-attachments/assets/e01f6dd4-6133-4f6c-8d57-1ee152e46bcd" />
+<img width="820" height="469" alt="Screenshot 2026-11-08 at 10 14 08 AM" src="https://github.com/user-attachments/assets/a245c0bc-03eb-4b34-85f1-462979056248" />
+<img width="826" height="503" alt="Screenshot 2026-11-08 at 11 24 09 AM" src="https://github.com/user-attachments/assets/79fd142d-c41b-47e7-ada0-02ea103936f4" />
+
+##Next Steps
+Check for design rule errors and fix them, then create controller PCB's
+
+Time Spent: 2.5hrs
+
+
+
